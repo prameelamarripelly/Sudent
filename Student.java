@@ -12,5 +12,6 @@ public class Student {
          System.out.println("WELCOME TO JENKINS");
          System.out.println("GOOD Evening");
          System.out.println("GOOD Evening");
+         System.out.println("GOOD MORNING")       
     }
 }
